@@ -125,4 +125,5 @@ Seleccionamos el método DELETE.
 Escribimos la URL: http://127.0.0.1:5000/productos/5
 
 Presionamos Send.
+
 La API procesará la solicitud y eliminará el producto.
