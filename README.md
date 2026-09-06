@@ -53,6 +53,8 @@ Presionamos el botón Send.
 
 Postman mostrará la información de los productos registrados.
 
+<img width="1916" height="1147" alt="GET png" src="https://github.com/user-attachments/assets/deb90f47-f222-486f-806e-e978d449f453" />
+
 
 POST: Nos ayuda a crear o agregar un nuevo producto 
 
@@ -82,6 +84,8 @@ Ejemplo de la solicitud
     
     "precio": 2500000
 }
+
+<img width="1917" height="1145" alt="POST png" src="https://github.com/user-attachments/assets/40272ded-572d-4cb7-9d77-45ec38d10328" />
 
 
 PUT:Nos ayuda a modificar la información de un producto que ya se encuentra registrado 
@@ -116,6 +120,9 @@ Ejemplo de la solicitud
 
 }
 
+<img width="1917" height="1140" alt="PUT png" src="https://github.com/user-attachments/assets/adc045d7-cc3c-4778-8394-15e35858ce8f" />
+
+
 DELETE: Nos ayuda a eliminar un producto registrado
 
 Abrimos una nueva solicitud en Postman.
@@ -127,3 +134,6 @@ Escribimos la URL: http://127.0.0.1:5000/productos/5
 Presionamos Send.
 
 La API procesará la solicitud y eliminará el producto.
+
+<img width="1917" height="1140" alt="DELETE png" src="https://github.com/user-attachments/assets/571a1946-e91c-4baa-8e0c-2dbf4753f2f7" />
+
